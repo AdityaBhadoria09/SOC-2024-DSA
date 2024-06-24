@@ -1,5 +1,5 @@
 # SOC-2024-DSA
-In this soc assignment,we are assigned some topics on data structure and algorithms with practice problem every week.
+In this soc assignment,we got assigned topics of data structure and algorithms with practice problem every week.
 <br>
 The motivation behind doing this project is to excel DSA which is very important in every aspect,beside this,I have a
 <br>
